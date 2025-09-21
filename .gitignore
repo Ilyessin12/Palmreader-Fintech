@@ -1,0 +1,20 @@
+# dataset folder because it contains large files
+datasets
+# python stuff
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+#notebook output
+training_history.png
+best_palm_model.keras
+
+# VSCode settings
+.vscode
+.ipynb_checkpoints
+# MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride

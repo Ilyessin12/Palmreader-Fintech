@@ -1,0 +1,7 @@
+# requirements.txt
+tensorflow-cpu==2.15
+tensorflow-directml-plugin
+opencv-python
+scikit-learn
+matplotlib
+numpy
